@@ -1,8 +1,8 @@
 atOptions = {
-		'key' : 'ff78a8b9f762f105a7b01ef5417f3f4c',
+		'key' : '431475e49e1926d143ad1caad2092d6e',
 		'format' : 'iframe',
 		'height' : 90,
 		'width' : 728,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplaycontent.com/ff78a8b9f762f105a7b01ef5417f3f4c/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://motorimperturbable.com/431475e49e1926d143ad1caad2092d6e/invoke.js"></scr' + 'ipt>');

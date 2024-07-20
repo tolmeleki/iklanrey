@@ -5,5 +5,4 @@ atOptions = {
 		'width' : 320,
 		'params' : {}
 	};
-</script>
-<script type="text/javascript" src="//www.topcreativeformat.com/042c4183158394c32357d23b92451a50/invoke.js"></script>
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.topcreativeformat.com/042c4183158394c32357d23b92451a50/invoke.js"></scr' + 'ipt>');
